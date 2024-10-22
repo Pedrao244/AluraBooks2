@@ -1,4 +1,4 @@
-.cabeçalho_menu-hambuguer {
+.cabeçalho_menu-hamburguer {g
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -6,3 +6,19 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+    .container {
+        diesplay flex;
+        align-items: center;
+    }
+
+    .container_imagem {
+        padding: 1em;
+    }
